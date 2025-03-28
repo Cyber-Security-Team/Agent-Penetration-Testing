@@ -1,2 +1,2 @@
-# Agent_Penetration_Testing
+# Agent Penetration Testing
 Research on automated penetration testing based on intelligent agents
